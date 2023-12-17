@@ -1,0 +1,13 @@
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using System;
+global using GraphQL;
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using HotChocolate;
+global using Backend.Models;
+global using Backend.Data;
+global using Backend.Dto;
+global using Backend.Controllers;
+global using Backend.Services;
+global using System.Reflection.Metadata;
