@@ -20,5 +20,6 @@ namespace Backend.Controllers
     {
       return _contentService.GetContents(_context).ToList();
     }
+    
   }
 }

@@ -11,3 +11,4 @@ global using Backend.Dto;
 global using Backend.Controllers;
 global using Backend.Services;
 global using System.Reflection.Metadata;
+global using HotChocolate.AspNetCore;
